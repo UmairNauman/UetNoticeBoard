@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645871611919",
+    "project_id": "uet-notice-board",
+    "storage_bucket": "uet-notice-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645871611919:android:42eb8f1645f9aad7f9b37a",
+        "android_client_info": {
+          "package_name": "com.company.uetnoticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645871611919-7793eh2gj4j1gqvlhb5bkmoq4cgp8009.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpD3-bAwO4O16Z0Tg-K0xIMOJEN2Joxfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645871611919-7793eh2gj4j1gqvlhb5bkmoq4cgp8009.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
